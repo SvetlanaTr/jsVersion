@@ -2,6 +2,7 @@ html{
     height: 100%;
     border: 1px solid gray;
 }
+/* main menu box*/
 #box {
     width: auto;
     height: 50%;
@@ -12,7 +13,6 @@ html{
     margin-left: 40%;
     margin-right: 40%;
 }
-/* develop pc3*/
 #box div {
     border: 3px solid white;
     height: auto;
