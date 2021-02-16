@@ -1,0 +1,29 @@
+html{
+    height: 100%;
+    border: 1px solid gray;
+}
+#box {
+    width: auto;
+    height: 50%;
+    display: flex;
+    background-color:azure;
+    align-items:flex-start;
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+/* testing 1*/
+#box div {
+    border: 3px solid white;
+    height: auto;
+    width: auto;
+    margin-right: 0.1%;
+}
+#box button {
+    background-color: black;
+    color: azure;
+    height: inherit;
+    width: inherit;
+    border-radius: 20px 20px;
+    
+}
